@@ -1,0 +1,16 @@
+{
+  "name": "unity-chan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^6.2.3"
+  }
+}
